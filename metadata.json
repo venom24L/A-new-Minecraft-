@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Craft Mobile",
+  "description": "A 3D mobile-friendly Voxel Sandbox Crafting and Exploration Game built with React, Vite, Tailwind CSS, and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
